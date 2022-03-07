@@ -1,0 +1,8 @@
+[06-Jul-2021 03:47:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'FPDF' not found in /home/ikac3457/public_html/assets/cetak/setasign/fpdi/src/FpdfTpl.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ikac3457/public_html/assets/cetak/setasign/fpdi/src/FpdfTpl.php on line 18
+[06-Jul-2021 03:47:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'setasign\Fpdi\FpdfTpl' not found in /home/ikac3457/public_html/assets/cetak/setasign/fpdi/src/Fpdi.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/ikac3457/public_html/assets/cetak/setasign/fpdi/src/Fpdi.php on line 23

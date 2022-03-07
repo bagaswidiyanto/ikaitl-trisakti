@@ -1,0 +1,4 @@
+[06-Jul-2021 03:49:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'DeepCopy\Filter\Filter' not found in /home/ikac3457/public_html/assets/cetak/myclabs/deep-copy/src/DeepCopy/Filter/KeepFilter.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ikac3457/public_html/assets/cetak/myclabs/deep-copy/src/DeepCopy/Filter/KeepFilter.php on line 5

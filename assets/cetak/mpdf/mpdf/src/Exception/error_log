@@ -1,0 +1,4 @@
+[06-Jul-2021 03:49:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Mpdf\MpdfException' not found in /home/ikac3457/public_html/assets/cetak/mpdf/mpdf/src/Exception/InvalidArgumentException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/ikac3457/public_html/assets/cetak/mpdf/mpdf/src/Exception/InvalidArgumentException.php on line 5

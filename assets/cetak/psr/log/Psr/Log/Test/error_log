@@ -1,0 +1,8 @@
+[06-Jul-2021 03:50:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home/ikac3457/public_html/assets/cetak/psr/log/Psr/Log/Test/LoggerInterfaceTest.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ikac3457/public_html/assets/cetak/psr/log/Psr/Log/Test/LoggerInterfaceTest.php on line 15
+[06-Jul-2021 03:50:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class 'Psr\Log\AbstractLogger' not found in /home/ikac3457/public_html/assets/cetak/psr/log/Psr/Log/Test/TestLogger.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/ikac3457/public_html/assets/cetak/psr/log/Psr/Log/Test/TestLogger.php on line 57

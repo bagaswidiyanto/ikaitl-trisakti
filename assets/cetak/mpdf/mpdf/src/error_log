@@ -1,0 +1,5 @@
+[06-Jul-2021 03:47:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'Psr\Log\LoggerAwareInterface' not found in /home/ikac3457/public_html/assets/cetak/mpdf/mpdf/src/RemoteContentFetcher.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ikac3457/public_html/assets/cetak/mpdf/mpdf/src/RemoteContentFetcher.php on line 9
+[06-Jul-2021 03:48:46 Asia/Jakarta] PHP Fatal error:  Trait 'Mpdf\Strict' not found in /home/ikac3457/public_html/assets/cetak/mpdf/mpdf/src/Form.php on line 12

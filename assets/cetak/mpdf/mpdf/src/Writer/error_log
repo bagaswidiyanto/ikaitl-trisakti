@@ -1,0 +1,2 @@
+[06-Jul-2021 03:48:18 Asia/Jakarta] PHP Fatal error:  Trait 'Mpdf\Strict' not found in /home/ikac3457/public_html/assets/cetak/mpdf/mpdf/src/Writer/BackgroundWriter.php on line 8
+[06-Jul-2021 03:48:22 Asia/Jakarta] PHP Fatal error:  Trait 'Mpdf\Strict' not found in /home/ikac3457/public_html/assets/cetak/mpdf/mpdf/src/Writer/FormWriter.php on line 9
